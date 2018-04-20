@@ -1,2 +1,2 @@
 # hello-world
-store code 
+to store my awesome code 
